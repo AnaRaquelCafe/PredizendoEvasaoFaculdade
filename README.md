@@ -18,6 +18,7 @@ Este conjunto de dados é apoiado pelo programa SATDAP - Capacitação da Admini
 
 Bons estudos!!
 
-![image](https://github.com/AnaRaquelCafe/Predizendo_Evasao_Faculdade/assets/46449538/0f6fb490-4380-4f48-aebf-07fa4af7605b)
+![estudar-computador](https://github.com/AnaRaquelCafe/Predizendo_Evasao_Faculdade/assets/46449538/bab71cc9-2cf4-47a0-a443-9efe7decb1f8)
+
 
 
