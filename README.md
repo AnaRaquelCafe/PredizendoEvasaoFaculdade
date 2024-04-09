@@ -14,7 +14,8 @@ O conjunto de dados foi criado no âmbito de um projeto que visa contribuir para
 
 - Criar modelos preditivos de classificação 🎯
 - Criar modelos preditivos de clusterização 🧩
-- 
+
+  
 **Sobre a fonte de dados:**
   
 Este conjunto de dados é apoiado pelo programa SATDAP - Capacitação da Administração Pública ao abrigo da bolsa POCI-05-5762-FSE-000191, Portugal.
