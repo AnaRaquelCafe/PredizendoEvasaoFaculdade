@@ -1,4 +1,4 @@
-# Predizendo_Evasao_Faculdade
+# PredizendoEvasaoFaculdade
 
 **Predizendo a evasão de estudantes e sucesso acadêmico** 🎓
 
